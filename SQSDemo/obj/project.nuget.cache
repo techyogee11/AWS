@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qiwEtOnxUQkpT4SRZG6FGLrKbXnekl+eSwfr7h5sVEWiatIvmYTgMI2KsdAGgF0kc1yGG7Xe8Q5xeQmKfHA1aA==",
+  "success": true,
+  "projectFilePath": "C:\\POC\\AWS Lambda Function\\SQSDemo\\SQSDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\amazon.lambda.sqsevents\\2.2.0\\amazon.lambda.sqsevents.2.2.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\POC\AWS Lambda Function\SQSDemo\bin\Release\net8.0\publish\SQSDemo.deps.json
+C:\POC\AWS Lambda Function\SQSDemo\bin\Release\net8.0\publish\SQSDemo.runtimeconfig.json
+C:\POC\AWS Lambda Function\SQSDemo\bin\Release\net8.0\publish\SQSDemo.pdb
+C:\POC\AWS Lambda Function\SQSDemo\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\POC\AWS Lambda Function\SQSDemo\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\POC\AWS Lambda Function\SQSDemo\bin\Release\net8.0\publish\Amazon.Lambda.SQSEvents.dll
+C:\POC\AWS Lambda Function\SQSDemo\bin\Release\net8.0\publish\SQSDemo.dll
