@@ -1,0 +1,6 @@
+C:\POC\AWS Lambda Function\SampleLambda\bin\Release\net8.0\publish\SampleLambda.deps.json
+C:\POC\AWS Lambda Function\SampleLambda\bin\Release\net8.0\publish\SampleLambda.runtimeconfig.json
+C:\POC\AWS Lambda Function\SampleLambda\bin\Release\net8.0\publish\SampleLambda.pdb
+C:\POC\AWS Lambda Function\SampleLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\POC\AWS Lambda Function\SampleLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\POC\AWS Lambda Function\SampleLambda\bin\Release\net8.0\publish\SampleLambda.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AeD2ANwT1a50WbYO1/4gsmZwQMHuRlVHnCxu13hqpYnb0vv36y55bfrrC3c+IMka5uq6f89LPilriuMp3grvzA==",
+  "success": true,
+  "projectFilePath": "C:\\POC\\AWS Lambda Function\\SampleLambda\\SampleLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

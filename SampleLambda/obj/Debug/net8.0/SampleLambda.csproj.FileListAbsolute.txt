@@ -1,0 +1,17 @@
+C:\POC\AWS Lambda Function\SampleLambda\bin\Debug\net8.0\SampleLambda.deps.json
+C:\POC\AWS Lambda Function\SampleLambda\bin\Debug\net8.0\SampleLambda.runtimeconfig.json
+C:\POC\AWS Lambda Function\SampleLambda\bin\Debug\net8.0\SampleLambda.dll
+C:\POC\AWS Lambda Function\SampleLambda\bin\Debug\net8.0\SampleLambda.pdb
+C:\POC\AWS Lambda Function\SampleLambda\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\POC\AWS Lambda Function\SampleLambda\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\SampleLambda.csproj.AssemblyReference.cache
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\SampleLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\SampleLambda.AssemblyInfoInputs.cache
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\SampleLambda.AssemblyInfo.cs
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\SampleLambda.csproj.CoreCompileInputs.cache
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\SampleLambda.csproj.CopyComplete
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\SampleLambda.dll
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\refint\SampleLambda.dll
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\SampleLambda.pdb
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\SampleLambda.genruntimeconfig.cache
+C:\POC\AWS Lambda Function\SampleLambda\obj\Debug\net8.0\ref\SampleLambda.dll
