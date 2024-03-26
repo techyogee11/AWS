@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AeD2ANwT1a50WbYO1/4gsmZwQMHuRlVHnCxu13hqpYnb0vv36y55bfrrC3c+IMka5uq6f89LPilriuMp3grvzA==",
+  "dgSpecHash": "QIkYprxsKn4xs1DlItxRoNypBZfcjMZnmyYAbHktTqPTAKB9ZwYoBuKqovIdoYQ1TbDhLFO/p/Lf7jB2xwrPKA==",
   "success": true,
-  "projectFilePath": "C:\\POC\\AWS Lambda Function\\SampleLambda\\SampleLambda.csproj",
+  "projectFilePath": "C:\\POC\\AWS_Samples\\SampleLambda\\SampleLambda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",

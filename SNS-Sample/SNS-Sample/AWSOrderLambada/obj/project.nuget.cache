@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hLEK7yHZYfg6Ve+luauNLWKb3apjx5y1NhZCZNf+JnZb53G9LnuE82Jy0ACm0KIViFtfNA2PUEz4lW+izI+TA==",
+  "success": true,
+  "projectFilePath": "C:\\POC\\AWS_Samples\\SNS-Sample\\SNS-Sample\\AWSOrderLambada\\AWSOrderLambada.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\amazon.lambda.snsevents\\2.1.0\\amazon.lambda.snsevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.1\\microsoft.netcore.app.runtime.linux-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

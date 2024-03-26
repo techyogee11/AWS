@@ -1,0 +1,7 @@
+C:\POC\AWS_Samples\SNS-Sample\SNS-Sample\AWSOrderLambada\bin\Release\net8.0\publish\AWSOrderLambada.deps.json
+C:\POC\AWS_Samples\SNS-Sample\SNS-Sample\AWSOrderLambada\bin\Release\net8.0\publish\AWSOrderLambada.runtimeconfig.json
+C:\POC\AWS_Samples\SNS-Sample\SNS-Sample\AWSOrderLambada\bin\Release\net8.0\publish\AWSOrderLambada.pdb
+C:\POC\AWS_Samples\SNS-Sample\SNS-Sample\AWSOrderLambada\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\POC\AWS_Samples\SNS-Sample\SNS-Sample\AWSOrderLambada\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\POC\AWS_Samples\SNS-Sample\SNS-Sample\AWSOrderLambada\bin\Release\net8.0\publish\Amazon.Lambda.SNSEvents.dll
+C:\POC\AWS_Samples\SNS-Sample\SNS-Sample\AWSOrderLambada\bin\Release\net8.0\publish\AWSOrderLambada.dll

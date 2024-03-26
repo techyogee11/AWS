@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\POC\\AWS Lambda Function\\SampleLambda\\SampleLambda.csproj": {}
+    "C:\\POC\\AWS_Samples\\SampleLambda\\SampleLambda.csproj": {}
   },
   "projects": {
-    "C:\\POC\\AWS Lambda Function\\SampleLambda\\SampleLambda.csproj": {
+    "C:\\POC\\AWS_Samples\\SampleLambda\\SampleLambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\POC\\AWS Lambda Function\\SampleLambda\\SampleLambda.csproj",
+        "projectUniqueName": "C:\\POC\\AWS_Samples\\SampleLambda\\SampleLambda.csproj",
         "projectName": "SampleLambda",
-        "projectPath": "C:\\POC\\AWS Lambda Function\\SampleLambda\\SampleLambda.csproj",
+        "projectPath": "C:\\POC\\AWS_Samples\\SampleLambda\\SampleLambda.csproj",
         "packagesPath": "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\",
-        "outputPath": "C:\\POC\\AWS Lambda Function\\SampleLambda\\obj\\",
+        "outputPath": "C:\\POC\\AWS_Samples\\SampleLambda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yogesh_Gulve\\AppData\\Roaming\\NuGet\\NuGet.Config",

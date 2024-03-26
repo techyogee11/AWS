@@ -1,0 +1,6 @@
+@SNS_Sample_HostAddress = http://localhost:5215
+
+GET {{SNS_Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
