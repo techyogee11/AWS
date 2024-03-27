@@ -56,7 +56,13 @@
 
 11. It also supports access control policies, and AWS Identity and Access Management for user and resource security.
 
-12. With
+12. With SNS, you can filter messages based on message attributes so that subscribers receive only the messages of interest.
+
+13. SNS supports the ability to fan out notifications to end users via mobile push, SMS, and email which can be leveraged in multi-channel marketing strategies.
+
+14. It is cost-effective as you only pay for what you use. You don’t need to pay any up-front commitments or fixed expenses. 
+
+15. For developers building applications, SNS provides APIs and an easy-to-use management console.
 
 ## SQS
 
