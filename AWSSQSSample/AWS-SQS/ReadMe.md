@@ -1,4 +1,8 @@
-﻿## Configuration of the application
+## Details
+
+This application send the UserDetails to SQS on AWS, gets/read all the send messages and delete all the messages
+
+## Configuration of the application
 
 Refer this link - https://www.c-sharpcorner.com/article/how-to-implement-amazon-sqs-aws-sqs-in-asp-net-core-project/
 
