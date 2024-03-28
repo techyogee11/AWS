@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AWS-SQS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7365cdd8126c70f4dcc6b5136aaf21c64b74ab3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6cb49131e579e2d9eec1924b76f814474427c6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AWS-SQS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AWS-SQS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
