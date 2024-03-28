@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AWSOrderLambada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22ccfe7603449e8166aac5058e2bb7d752c4fa1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+663819881dc160b193110e5320e91b32b35c8fd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AWSOrderLambada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AWSOrderLambada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

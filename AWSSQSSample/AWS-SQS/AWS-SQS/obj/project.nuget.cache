@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9uiBPhCKXtDvDYz25ml33oLd5l+sCFR2m9Mu200jPidyNRAlmL1O5Mj/zLx5deUOI05s6wvVaoI7AAuYD2RqA==",
+  "success": true,
+  "projectFilePath": "C:\\POC\\AWS_Samples\\AWSSQSSample\\AWS-SQS\\AWS-SQS\\AWS-SQS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\awssdk.core\\3.7.303.3\\awssdk.core.3.7.303.3.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.300\\awssdk.extensions.netcore.setup.3.7.300.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\awssdk.sqs\\3.7.300.63\\awssdk.sqs.3.7.300.63.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\Yogesh_Gulve\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
