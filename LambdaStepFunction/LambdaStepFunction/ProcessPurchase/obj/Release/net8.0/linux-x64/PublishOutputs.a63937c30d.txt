@@ -1,0 +1,7 @@
+C:\POC\AWS_Samples\LambdaStepFunction\LambdaStepFunction\ProcessPurchase\bin\Release\net8.0\publish\ProcessPurchase.deps.json
+C:\POC\AWS_Samples\LambdaStepFunction\LambdaStepFunction\ProcessPurchase\bin\Release\net8.0\publish\ProcessPurchase.runtimeconfig.json
+C:\POC\AWS_Samples\LambdaStepFunction\LambdaStepFunction\ProcessPurchase\bin\Release\net8.0\publish\ProcessPurchase.pdb
+C:\POC\AWS_Samples\LambdaStepFunction\LambdaStepFunction\ProcessPurchase\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\POC\AWS_Samples\LambdaStepFunction\LambdaStepFunction\ProcessPurchase\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\POC\AWS_Samples\LambdaStepFunction\LambdaStepFunction\ProcessPurchase\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\POC\AWS_Samples\LambdaStepFunction\LambdaStepFunction\ProcessPurchase\bin\Release\net8.0\publish\ProcessPurchase.dll
