@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i4cLW/PcjIirbOVwiCiBiui30Wce2MZkofVNPOM3QCo=",
+  "Source": "CloudFormationLambda",
+  "BasePath": "_content/CloudFormationLambda",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

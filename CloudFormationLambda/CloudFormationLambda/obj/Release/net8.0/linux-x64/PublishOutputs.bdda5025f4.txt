@@ -1,0 +1,14 @@
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\CloudFormationLambda
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\appsettings.Development.json
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\appsettings.json
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\aws-lambda-tools-defaults.json
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\CloudFormationLambda.deps.json
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\CloudFormationLambda.runtimeconfig.json
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\CloudFormationLambda.pdb
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\Amazon.Lambda.AspNetCoreServer.dll
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\POC\AWS_Samples\CloudFormationLambda\CloudFormationLambda\bin\Release\net8.0\publish\CloudFormationLambda.dll

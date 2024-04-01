@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4ZWI6LyuXdrw5QOc+Uz3wl1iVpuqVVbOhIVfKty0oeQ=",
+  "Source": "CloudFormationLambda",
+  "BasePath": "_content/CloudFormationLambda",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
