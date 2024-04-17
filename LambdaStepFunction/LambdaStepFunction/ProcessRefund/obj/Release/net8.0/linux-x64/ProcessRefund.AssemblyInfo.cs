@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessRefund")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59e62bae3646cee485a87e1ac9cc90f72517a6e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3feb5a08a1f9aa2ab875a63cfc118aec9989d78c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessRefund")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessRefund")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamoStudentMananger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36540f6f750c0077c05cd7a1fc597b3dab52e00a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3feb5a08a1f9aa2ab875a63cfc118aec9989d78c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamoStudentMananger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamoStudentMananger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

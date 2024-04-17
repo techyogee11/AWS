@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudFormationLambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe538e0cf7bcd912fd9e538e48b6f4ee9a9742bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3feb5a08a1f9aa2ab875a63cfc118aec9989d78c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudFormationLambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudFormationLambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

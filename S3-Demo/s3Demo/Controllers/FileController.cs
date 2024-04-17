@@ -82,7 +82,7 @@ namespace s3Demo.Controllers
             try
             {
                 var bucketExists = await _amazonS3.DoesS3BucketExistAsync(bucketName);
-                
+
                 if (!bucketExists) return NotFound($"Bucket {bucketName} does not exist.");
                 var s3Object = await _amazonS3.GetObjectAsync(bucketName, key);
                 return File(s3Object.ResponseStream, s3Object.Headers.ContentType);

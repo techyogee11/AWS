@@ -11,7 +11,7 @@
     "configuration" : "Release",
     "function-architecture" : "x86_64",
     "function-runtime"      : "dotnet8",
-    "function-memory-size"  : 512,
+    "function-memory-size"  : 128,
     "function-timeout"      : 30,
     "function-handler"      : "ProcessPurchase::ProcessPurchase.Function::FunctionHandler",
     "framework"             : "net8.0",

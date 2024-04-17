@@ -18,11 +18,11 @@ public class Function
     public string FunctionHandler(FunctionInput input, ILambdaContext context)
     {
         var response = new Dictionary<string, string>()
- {
-     { "TransactionType", input.TransactionType },
-     {"TimeStamp", DateTime.UtcNow.ToString("U") },
-     {"Message", "Hello from lambada land inside the Process Refund function" }
- };
+         {
+             { "TransactionType", input.TransactionType },
+             {"TimeStamp", DateTime.UtcNow.ToString("U") },
+             {"Message", "Hello from lambada land inside the Process Refund function" }
+         };
 
         string jsonString = JsonConvert.SerializeObject(response, Newtonsoft.Json.Formatting.Indented);
 

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cloud-watch-logging", "cloud-watch-logging\cloud-watch-logging.csproj", "{9670164E-148D-489A-B424-F5E978B7C6EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherDataProcessor", "WeatherDataProcessor\src\WeatherDataProcessor\WeatherDataProcessor.csproj", "{13995FEC-ED15-493C-9B52-C87D133C9C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9670164E-148D-489A-B424-F5E978B7C6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9670164E-148D-489A-B424-F5E978B7C6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9670164E-148D-489A-B424-F5E978B7C6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9670164E-148D-489A-B424-F5E978B7C6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13995FEC-ED15-493C-9B52-C87D133C9C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13995FEC-ED15-493C-9B52-C87D133C9C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13995FEC-ED15-493C-9B52-C87D133C9C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13995FEC-ED15-493C-9B52-C87D133C9C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
