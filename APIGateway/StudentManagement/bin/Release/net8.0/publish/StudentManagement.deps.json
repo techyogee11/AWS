@@ -1,0 +1,127 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0/linux-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {},
+    ".NETCoreApp,Version=v8.0/linux-x64": {
+      "StudentManagement/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.302.16",
+          "Amazon.Lambda.APIGatewayEvents": "2.7.0",
+          "Amazon.Lambda.Core": "2.2.0",
+          "Amazon.Lambda.Serialization.SystemTextJson": "2.4.1",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "StudentManagement.dll": {}
+        }
+      },
+      "Amazon.Lambda.APIGatewayEvents/2.7.0": {
+        "runtime": {
+          "lib/net8.0/Amazon.Lambda.APIGatewayEvents.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Core/2.2.0": {
+        "runtime": {
+          "lib/net8.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.4.1": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "2.2.0"
+        },
+        "runtime": {
+          "lib/net8.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.303.15": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.303.15"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.302.16": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.303.15"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.302.16"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.APIGatewayEvents/2.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HAbdRKLzvUqRg/fItan7up/PWsj6vQfYF+1a4YV6sv1bq5TuK/ra+ndJwWMlzL+MFJzJaHwCmtkyBbh/vz8Oig==",
+      "path": "amazon.lambda.apigatewayevents/2.7.0",
+      "hashPath": "amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Core/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DHqKeD1CYocP0t1dJC/NaXfu+5k6AoqnQ1Hlu/J2mXpLpCyeJfY+tIqT5fpruDarUlU0NtdIH8zSkCjeinyb1A==",
+      "path": "amazon.lambda.core/2.2.0",
+      "hashPath": "amazon.lambda.core.2.2.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X06Z8zPDZJS/xAoAntSqsxOoSSKKFJMg+0QGPRtlPt1mbP19HFXlXn+q+XqHdVWWFsiH/r7KbDIICr0nsrlwug==",
+      "path": "amazon.lambda.serialization.systemtextjson/2.4.1",
+      "hashPath": "amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.303.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HvZ4+TZ9Ua42OLIZRBXOh6kLDfTEtRTVH6Lub7fdzNI2NbZOt3OhMYuCvr3ysz6vC/xFw4q2W4DN5LUc+oymgA==",
+      "path": "awssdk.core/3.7.303.15",
+      "hashPath": "awssdk.core.3.7.303.15.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.302.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hNSMgNFGD1i4koqLjrLhC8E2tCFT4ir6qu6X2CYqd8Hnj0ycUL4jJm41/vma0JjMKnfdYJpHx4JY3hHaGXCoUg==",
+      "path": "awssdk.dynamodbv2/3.7.302.16",
+      "hashPath": "awssdk.dynamodbv2.3.7.302.16.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    }
+  }
+}

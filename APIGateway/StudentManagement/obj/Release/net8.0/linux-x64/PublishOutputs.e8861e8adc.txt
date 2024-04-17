@@ -1,0 +1,10 @@
+C:\POC\AWS_Samples\APIGateway\StudentManagement\bin\Release\net8.0\publish\StudentManagement.deps.json
+C:\POC\AWS_Samples\APIGateway\StudentManagement\bin\Release\net8.0\publish\StudentManagement.runtimeconfig.json
+C:\POC\AWS_Samples\APIGateway\StudentManagement\bin\Release\net8.0\publish\StudentManagement.pdb
+C:\POC\AWS_Samples\APIGateway\StudentManagement\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\POC\AWS_Samples\APIGateway\StudentManagement\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\POC\AWS_Samples\APIGateway\StudentManagement\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\POC\AWS_Samples\APIGateway\StudentManagement\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\POC\AWS_Samples\APIGateway\StudentManagement\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\POC\AWS_Samples\APIGateway\StudentManagement\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\POC\AWS_Samples\APIGateway\StudentManagement\bin\Release\net8.0\publish\StudentManagement.dll
