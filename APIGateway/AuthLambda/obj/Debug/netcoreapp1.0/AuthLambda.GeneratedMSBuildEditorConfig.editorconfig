@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AuthLambda
+build_property.ProjectDir = C:\POC\AWS_Samples\APIGateway\AuthLambda\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
